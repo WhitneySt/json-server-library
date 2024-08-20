@@ -232,5 +232,13 @@
                 }
             }
         }
+    ],
+    "users":[
+        {
+            "id": 1,
+            "name": "Whit",
+            "email": "whit@gmail.com",
+            "password": "123456"
+        }
     ]
 }
